@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d967d51d7384c141948f307f14b40ad, type: 3}
+  m_Name: CityDatas
+  m_EditorClassIdentifier: 
+  cityDataList:
+  - cityName: Berlin
+    latitude: 52.52
+    longitude: 13.405
+  - cityName: Cologne
+    latitude: 50.9375
+    longitude: 6.9603
+  - cityName: Bangkok
+    latitude: 13.7563
+    longitude: 100.5018
+  - cityName: London
+    latitude: 51.5074
+    longitude: 0.1278
+  - cityName: Paris
+    latitude: 48.8566
+    longitude: 2.3522
+  - cityName: Dubai
+    latitude: 25.2048
+    longitude: 55.2708
+  - cityName: Singapore
+    latitude: 1.3521
+    longitude: 103.8198
+  - cityName: New York
+    latitude: 40.7128
+    longitude: -74.00597
+  - cityName: Tokyo
+    latitude: 35.6762
+    longitude: 139.6503
+  - cityName: Istanbul
+    latitude: 41.0082
+    longitude: 28.9784
+  - cityName: Barcelona
+    latitude: 41.3851
+    longitude: 2.1734
+  - cityName: Bali
+    latitude: 8.3405
+    longitude: 115.092
+  - cityName: 'Bangalore '
+    latitude: 12.9716
+    longitude: 77.5946
+  - cityName: Delhi
+    latitude: 28.7041
+    longitude: 77.1025
+  - cityName: Lagos
+    latitude: 6.5244
+    longitude: 3.3792
+  - cityName: 'Luanda '
+    latitude: 8.8147
+    longitude: 13.2302
+  - cityName: Alexandria
+    latitude: 31.2001
+    longitude: 29.9187
+  - cityName: Casablanca
+    latitude: 33.5731
+    longitude: 7.5898
+  - cityName: Johannesburg
+    latitude: 26.2041
+    longitude: 28.0473
+  - cityName: sao paulo
+    latitude: -23.533773
+    longitude: -46.62529
+  - cityName: Rio de Janeiro
+    latitude: -22.908333
+    longitude: -43.19639
+  - cityName: Santiago
+    latitude: -33.45923
+    longitude: -70.64535
+  - cityName: "Bogot\xE1"
+    latitude: 4.624335
+    longitude: -74.063644
+  - cityName: Salvador
+    latitude: -12.974722
+    longitude: -38.476665
+  - cityName: Mexico City
+    latitude: 19.432608
+    longitude: -99.13321
+  - cityName: Monterrey
+    latitude: 25.686613
+    longitude: -100.31612
+  - cityName: california
+    latitude: 36.77826
+    longitude: -119.41793
+  - cityName: Toronto
+    latitude: 43.62341
+    longitude: -79.36868
