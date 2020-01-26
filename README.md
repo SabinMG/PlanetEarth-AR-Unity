@@ -1,8 +1,8 @@
 # PlanetEarth-AR-Unity
-Augmented reality app, lets you to interact with the planet earth Game<br/>
+Augmented reality app, lets you to interact with the planet earth<br/>
 
 <p align="center">
-  <img src= https://github.com/SabinMG/PlanetEarth-AR-Unity/blob/master/AppScreen.jpg width="960" title="Gameplay image">
+  <img src= https://github.com/SabinMG/PlanetEarth-AR-Unity/blob/master/AppScreen.jpg width="550" title="Gameplay image">
 </p>
 
 
@@ -18,4 +18,4 @@ https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@3.0/manual/index.htm
 
 
 ## Assets used
-https://assetstore.unity.com/packages/tools/input-management/fingers-lite-free-finger-touch-gestures-for-unity-64276 
+gesture control - https://assetstore.unity.com/packages/tools/input-management/fingers-lite-free-finger-touch-gestures-for-unity-64276 
