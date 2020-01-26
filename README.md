@@ -1,5 +1,5 @@
 # PlanetEarth-AR-Unity
-Augmented reality app, lets you to interact with the planet earth<br/>
+Augmented reality app, lets you interact with the planet earth<br/>
 
 <p align="center">
   <img src= https://github.com/SabinMG/PlanetEarth-AR-Unity/blob/master/AppScreen.jpg width="550" title="Gameplay image">
@@ -7,8 +7,8 @@ Augmented reality app, lets you to interact with the planet earth<br/>
 
 
 ## App controls
-Scan the floor and tap on the placement white hint image to place the object(earth model).
-Rotate - simply drag the object 
+Scan the floor and tap on the placement white hint image to place the object(earth model)<br/>
+Rotate - simply drag the object<br/>
 Scale - do a pinch action 
 
 ## About code
